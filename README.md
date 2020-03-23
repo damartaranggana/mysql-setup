@@ -10,7 +10,7 @@ What this script does:
 
 Download or copy the script and paste it into a new file
 
-> wget https://github.com/damartaranggana/mysql-setup/blob/master/mysql.sh
+> wget https://raw.githubusercontent.com/damartaranggana/mysql-setup/master/mysql.sh
 
 Make the script executable
 
