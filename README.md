@@ -14,11 +14,11 @@ Download or copy the script and paste it into a new file
 
 Make the script executable
 
->chmod a+x mysql-setup.sh
+>chmod a+x mysql.sh
 
 Run the script
 
->sudo ./mysql-setup.sh
+>sudo ./mysql.sh
 
 To start, stop, restart, or check the status of the mysql-server use
 
