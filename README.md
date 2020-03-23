@@ -6,7 +6,7 @@ What this script does:
 - Auto set password MYSQL "Kocak//2000"
 - Done
 
-How to use:
+**How to use:**
 
 Download or copy the script and paste it into a new file
 wget https://github.com/damartaranggana/mysql-setup
