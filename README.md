@@ -22,12 +22,9 @@ Run the script
 
 To start, stop, restart, or check the status of the mysql-server use
 
-(For starting MYSQL server) 
-- sudo service mysql start 
-(For restart MYSQL server)
-- sudo service mysql restart
-(For stop MYSQL server)
-- sudo service mysql stop 
+- sudo service mysql start (For starting MYSQL server) 
+- sudo service mysql restart (For restart MYSQL server)
+- sudo service mysql stop (For stop MYSQL server)
 
 
 
